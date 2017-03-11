@@ -1,0 +1,385 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Lato');
+
+body {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 1px;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    -webkit-transition: all 0.4s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ 
+.about-viniciuscdes{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.progress-vcdes{
+  height: 2px;
+}
+
+.progress-bar-vcdes{
+  background-color: #000000;
+}
+
+.progress-bar-text span {
+    float: right
+}
+.progress-bar-text {
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.section-process{
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.social-viniciuscdes{
+    background-color: #000;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.mysql-book{
+  background-color: #056eb2;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.postgres-book{
+  background-color: #945b76;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.text-section-books{
+  color: #ffffff;
+  margin-bottom:60px;
+}
+
+.text-section-skills{
+  margin-bottom: 60px;
+}
+
+
+
+.about-text h2 {
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+
+.about-text p {
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    line-height:32px;
+}
+
+.about-text p a {
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    padding: 2px 6px;
+    text-transform: uppercase;
+    font-size: 12px;
+    border: 1px solid #000;
+    letter-spacing: 5px;
+    margin: 0px 5px;
+}
+
+.about-text p a:hover {
+    background: transparent;
+    border: 1px solid #000;
+    color: #000;
+}
+
+
+/*buy buttons*/
+
+.btn-mysql{
+  background-color: #337cbb;
+  border-color: #2e6fa7;
+}
+
+.btn-postgres{
+  background-color: #c48ea0;
+  border-color: #c48ea0;
+}
+
+/*social-vcdes*/
+
+.social-vcdes{
+  color:#ffffff;
+}
+
+/*welcome-area*/
+
+.welcome-area {
+    height: 100%;
+}
+
+.welcome-image-area {
+    position: relative;
+    height: 100%;
+    background: url(../images/bg/bg.jpg);
+    background-size: cover;
+    z-index: 1;
+}
+
+.parallax-bg {
+    background: url(../images/bg/bg1.jpg);
+    background-size: cover;
+}
+
+.welcome-image-area:after {
+    position: absolute;
+    background: rgba(0, 0, 0, .7);
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    z-index: -1;
+}
+
+.display-table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.display-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.header-text {}
+
+.header-text h2 {
+    color: #fff;
+    font-size: 50px;
+    letter-spacing: 5px;
+    margin: 0;
+    font-weight: 900;
+}
+
+.header-text p {
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-size: 12px;
+    background: #fff;
+    display: inline-block;
+    padding: 4px 10px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+.header-top-area {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    -webkit-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+}
+
+.logo {
+    padding-top: 28px;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.logo a {
+    display: block;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.mainmenu .navbar-nav li a {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    padding: 30px 15px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    font-weight: 600;
+}
+
+.mainmenu .navbar-nav li a:hover {
+    background: none;
+    color: #fff;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.nav li a:focus,
+.nav li a:hover {
+    background: none;
+    color: #fff;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.navbar {
+    margin: 0;
+}
+
+.menu-bg {
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    background: #000;
+}
+
+.menu-bg .logo {
+    padding-top: 18px;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.menu-bg .mainmenu .navbar-nav li a {
+    color: #fff;
+    padding: 20px 15px;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+
+.menu-bg .mainmenu .navbar-nav li a:hover {
+    color: #fff;
+}
+
+a.home-btn {
+    margin-top: 40px;
+    display: inline-block;
+    color: #fff;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    font-size: 12px;
+    border: 1px solid #fff;
+    margin-right: 10px;
+    background: transparent;
+}
+
+a.home-btn:hover {
+    border: 1px solid #fff;
+    background: transparent;
+    color: #000;
+    background: #fff;
+}
+
+
+
+
+.welcome-video-area {
+    position: relative;
+    height: 100%;
+    background-size: cover;
+    z-index: 1;
+    background-position: center center;
+}
+
+.welcome-video-area:after {
+    position: absolute;
+    background: rgba(0, 0, 0, .5);
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    z-index: -1;
+}
+
+.display-table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.display-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+.preloader-area {
+    background: #fff;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 9999;
+}
+
+.double-bounce1,
+.double-bounce2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #000;
+    opacity: 0.6;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: -15px;
+    margin-top: -15px;
+    -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+    animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.double-bounce2 {
+    -webkit-animation-delay: -1.0s;
+    animation-delay: -1.0s;
+}
+
+@-webkit-keyframes sk-bounce {
+    0%,
+    100% {
+        -webkit-transform: scale(0.0)
+    }
+    50% {
+        -webkit-transform: scale(1.0)
+    }
+}
+
+@keyframes sk-bounce {
+    0%,
+    100% {
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+    }
+    50% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+}

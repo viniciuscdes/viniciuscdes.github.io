@@ -1,4 +1,4 @@
-##Vinicius Carvalho Event Calendar, Initiatives and Activities
+## Vinicius Carvalho Event Calendar, Initiatives and Activities
 
 
 This repository is to centralize all my participation in events, conferences, meetups, community activities and publications in general 
@@ -23,7 +23,7 @@ This repository is to centralize all my participation in events, conferences, me
 
 
 
-##Workshops
+## Workshops
 
 | Year | Event |      Subject      | Language |
 | :--: | :---: | :---------------: | :------: |
@@ -31,7 +31,7 @@ This repository is to centralize all my participation in events, conferences, me
 
 
 
-##Volunteer
+## Volunteer
 
 
 | Year  | Event | Role |
@@ -41,7 +41,7 @@ This repository is to centralize all my participation in events, conferences, me
 
 
 
-##Initiatives
+## Initiatives
 
 | Initiative name                      | Focus | Language |
 | ------------------------------------ | ----- | -------- |
@@ -51,7 +51,7 @@ This repository is to centralize all my participation in events, conferences, me
 
 
 
-##Books and eBooks
+## Books and eBooks
 
 |Type |	Title |	Language |
 | ------------------------------------ | ----- | -------- |
@@ -60,7 +60,7 @@ This repository is to centralize all my participation in events, conferences, me
 
 
 
-##Social Medias
+## Social Medias
 
 | Social Media |
 | :----------------: |
@@ -69,7 +69,7 @@ This repository is to centralize all my participation in events, conferences, me
 | [Twitter](https://www.twitter.com/viniciuscdes) |
 
 
-##Want to know more? (Quer falar comigo? Me mande uma Mensagem)
+## Want to know more? (Quer falar comigo? Me mande uma Mensagem)
 
 - [Talk to me](#https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)
 

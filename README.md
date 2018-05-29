@@ -5,7 +5,7 @@ This repository is to centralize my professional information and below all my pa
 
 
 
-> [Talks](##-Talks)  |  [Workshops](#-Workshops) |  [Volunteer](#-Volunteer)  |  [Initiatives](#-Initiatives) |  [Books and eBooks](#-Books-and-eBooks)  | [Social Medias](#-Social-Medias) 
+> [Talks](##-Talks)  |  [Workshops](#-Workshops) |  [Volunteer](#-Volunteer)  |  [Initiatives](##-Initiatives) |  [Books and eBooks](#-Books-and-eBooks)  | [Social Medias](#-Social-Medias) 
 
 [Talks](##-Talks)
 

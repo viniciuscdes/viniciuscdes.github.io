@@ -1,10 +1,11 @@
-## Vinicius Carvalho Event Calendar, Initiatives and Activities
+## Vinicius Carvalho Event Calendar, Initiatives, Activities and Professional Information
+
+This repository is to centralize my professional information and below all my participation in events, conferences, meetups, community activities and publications in general.
 
 
-This repository is to centralize all my participation in events, conferences, meetups, community activities and publications in general 
 
 
->[Talks](#Talks)  |  [Workshops](#Workshops) |  [Volunteer](#Volunteer)  |  [Initiatives](#Initiatives) |  [Books and eBooks](#Books-and-eBooks)  | [Social Medias](#Social-Medias) 
+>[Talks](# Talks)  |  [Workshops](# Workshops) |  [Volunteer](# Volunteer)  |  [Initiatives](# Initiatives) |  [Books and eBooks](# Books-and-eBooks)  | [Social Medias](# Social-Medias) 
 
 
 
@@ -71,6 +72,6 @@ This repository is to centralize all my participation in events, conferences, me
 
 ## Want to know more? (Quer falar comigo? Me mande uma Mensagem)
 
-- [Talk to me](https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)
+- [Talk to me](#https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)
 
-- [Fale comigo](https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)
+- [Fale comigo](#https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)

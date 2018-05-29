@@ -71,6 +71,6 @@ This repository is to centralize all my participation in events, conferences, me
 
 ## Want to know more? (Quer falar comigo? Me mande uma Mensagem)
 
-- [Talk to me](#https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)
+- [Talk to me](https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)
 
-- [Fale comigo](#https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)
+- [Fale comigo](https://goo.gl/forms/Q6ZBzqPZmUc3mXFe2)

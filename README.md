@@ -12,6 +12,9 @@ This repository is to centralize my professional information and below all my pa
 
 | Year |                            Event                             |                           Subject                            | Language |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+| 2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Indicadores na Análise de Negócios](https://www.slideshare.net/viniciuscdes/prototipacao-funcional) |    BR    |
+| 2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br) | [Indicadores na Análise de Negócios](https://www.slideshare.net/viniciuscdes/prototipacao-funcional) |    BR    |
+| 2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br) | [Prototipacao Funcional](https://www.slideshare.net/viniciuscdes/prototipacao-funcional) |    BR    |
 | 2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Prototipacao Funcional](https://www.slideshare.net/viniciuscdes/prototipacao-funcional) |    BR    |
 | 2017 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br) | [Proposta de utilização de BDD em documentos de requisitos](https://www.slideshare.net/viniciuscdes/proposta-de-utilizao-de-bdd-em-documentos-de-requisitos) |    BR    |
 | 2017 |          Meet de Análise de Negócios DB1 - Maringá           | [Da prototipacao a documentacao](https://www.slideshare.net/viniciuscdes/da-prototipacao-a-documentacao) |    BR    |
@@ -27,7 +30,7 @@ This repository is to centralize my professional information and below all my pa
 
 | Year | Event |      Subject      | Language |
 | :--: | :---: | :---------------: | :------: |
-| 2015 |   u   | PL/SQL na prática |    BR    |
+| 2015 |   Unifil   | PL/SQL na prática |    BR    |
 
 
 

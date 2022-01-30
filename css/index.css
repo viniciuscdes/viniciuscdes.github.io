@@ -1,0 +1,27 @@
+.btn-primary{
+    color: #212529;
+    background-color: #fff;
+    border-color: #212529;
+    border-radius: 0;
+    margin: 5px;
+}
+
+.btn-primary:hover{
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.row {
+  
+    max-width: 680px;
+    margin: 0px auto;
+}
+
+.body{
+    background-color: #edede9;
+}
+
+.card{
+    display: block;
+}

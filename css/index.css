@@ -24,4 +24,13 @@
 
 .card{
     display: block;
+    border: none;
+}
+
+.h1{
+    margin: 16px;
+}
+
+.primaryColor{
+    color: #212529;
 }
